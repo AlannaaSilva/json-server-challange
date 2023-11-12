@@ -40,5 +40,88 @@
         "es": "Cree colecciones, agregue contenido, reorganice elementos y déjelo a su manera para mejorar la experiencia."
       }
     }
-  ]
+  ],
+  "header": {
+      "solutions": {
+        "pt": "Soluções",
+        "en": "Solutions",
+        "es": "Soluciones"
+      },
+      "price": {
+        "pt": "Preço",
+        "en": "Price",
+        "es": "Precio"
+      },
+      "contact": {
+        "pt": "Contato",
+        "en": "Contact",
+        "es": "Contacto"
+      },
+      "signIn": {
+        "pt": "Entrar",
+        "en": "Sign In",
+        "es": "Entrar"
+      },
+      "start": {
+        "pt": "Começar agora",
+        "en": "Start now",
+        "es": "Empezar ahora"
+      }
+
+    },
+  "intro": {
+    "start": {
+      "pt": "Começar agora",
+      "en": "Start now",
+      "es": "Empezar ahora"
+    },
+    "watchVideo": {
+      "pt": "Ver vídeo",
+      "en": "Watch video",
+      "es": "Ver vídeo"
+    },
+    "header": {
+      "pt": "Plataforma all in one",
+      "en": "All in one platform",
+      "es":  "Plataforma all in one"
+    },
+    "title": {
+      "pt": "Sua escola online poderosa e lucrativa",
+      "en": "Your powerful and profitable online school",
+      "es":  "Tu escuela online potente y rentable"
+    },
+    "description": {
+      "pt": "Tenha sua própria escola online 100% white label com rede social, gamificação, clube de assinaturas, ecommerce e sistema EAD completo.",
+      "en": "Have your own 100% white label online school with social network, gamification, subscription club, ecommerce and complete distance learning system.",
+      "es":  "Ten tu propia escuela online 100% marca blanca con red social, gamificación, club de suscripción, ecommerce y completo sistema de educación a distancia."
+    }
+  },
+  "bottomSheet": {
+    "header": {
+      "pt": "Pensamos em cada detalhe",
+      "en": "We think about every detail",
+      "es": "Pensamos en cada detalle"
+    },
+    "subHeader": {
+      "pt": "Conheça alguns dos nossos recursos",
+      "en": "Discover some of our resources",
+      "es": "Descubra algunos de nuestros recursos"
+    },
+    "description": {
+      "pt": "Queremos que o aluno se sinta confortável enquanto aprende",
+      "en": "We want the student to feel comfortable while learning",
+      "es": "Queremos que el alumno se sienta cómodo mientras aprende."
+    },
+    "footer": {
+      "pt": "Veja todos os outros recursos disponíveis para te ajudar",
+      "en": "See all the other resources available to help you",
+      "es": "Vea todos los demás recursos disponibles para ayudarle"
+    },
+    "subFooter": {
+      "pt": "Veja mais",
+      "en": "See more",
+      "es": "Vea mas"
+    }
+  }
+  
 }
